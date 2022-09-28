@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/parcel-estimate/static/js/main.2134111a.js",
+    "static/js/787.693accdf.chunk.js": "/parcel-estimate/static/js/787.693accdf.chunk.js",
+    "index.html": "/parcel-estimate/index.html",
+    "main.2134111a.js.map": "/parcel-estimate/static/js/main.2134111a.js.map",
+    "787.693accdf.chunk.js.map": "/parcel-estimate/static/js/787.693accdf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2134111a.js"
+  ]
+}
