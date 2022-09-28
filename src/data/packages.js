@@ -1,0 +1,68 @@
+const packages = [
+  {
+    sortOrder: 300,
+    maxDimension: 40,
+    maxWeight: 2,
+    deliveryFee: 30,
+    packageFee: 5,
+    packageSize: 'MINI',
+  },
+  {
+    sortOrder: 400,
+    maxDimension: 60,
+    maxWeight: 7,
+    deliveryFee: 65,
+    packageFee: 10,
+    packageSize: 'S',
+  },
+  {
+    sortOrder: 410,
+    maxDimension: 75,
+    maxWeight: 7,
+    deliveryFee: 80,
+    packageFee: 15,
+    packageSize: 'S+',
+  },
+  {
+    sortOrder: 500,
+    maxDimension: 90,
+    maxWeight: 10,
+    deliveryFee: 90,
+    packageFee: 20,
+    packageSize: 'M',
+  },
+  {
+    sortOrder: 510,
+    maxDimension: 100,
+    maxWeight: 15,
+    deliveryFee: 130,
+    packageFee: 25,
+    packageSize: 'M+',
+  },
+  {
+    sortOrder: 600,
+    maxDimension: 120,
+    maxWeight: 15,
+    deliveryFee: 185,
+    packageFee: 30,
+    packageSize: 'L',
+  },
+  {
+    sortOrder: 700,
+    maxDimension: 150,
+    maxWeight: 20,
+    deliveryFee: 290,
+    packageFee: 0,
+    packageSize: 'XL',
+  },
+  {
+    sortOrder: 800,
+    maxDimension: 280,
+    maxWeight: 30,
+    deliveryFee: 380,
+    packageFee: 0,
+    packageSize: 'XL',
+  },
+];
+
+export default packages;
