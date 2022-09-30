@@ -65,4 +65,12 @@ const packages = [
   },
 ];
 
-export default packages;
+const province = [
+  { value: 10000, label: 'กรุงเทพ' },
+  { value: 20000, label: 'เชียงใหม่' },
+  { value: 30000, label: 'ญี่ปุ่น' },
+  { value: 40000, label: 'จีน' },
+  { value: 50000, label: 'ฮาวาย' },
+];
+
+export { packages, province };
